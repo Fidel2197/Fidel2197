@@ -6,11 +6,13 @@
 
 ### Computer Science Student | Web Developer | Research and Teaching Assistant
 
-I build practical web apps with clean interfaces, thoughtful user flows, and project pages that make the work easy to understand. I am growing toward software, web, and IT/CS internship roles where I can keep learning while contributing real features.
+I build practical web apps with clean interfaces, thoughtful user flows, and project pages that make the work easy to understand. I am open to internships and work opportunities while I finish my degree, with an expected graduation date of December 2026.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-2563EB?style=for-the-badge)](https://fidel-portfolio-eta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel%20Anyanwu-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/fidel-anyanwu-98a34124b/)
 [![Email](https://img.shields.io/badge/Email-fanyanwu%40mcneese.edu-14B8A6?style=for-the-badge)](mailto:fanyanwu@mcneese.edu)
+![Graduation](https://img.shields.io/badge/Graduation-December%202026-14B8A6?style=for-the-badge)
+![Open To Work](https://img.shields.io/badge/Open%20To-Internships%20%2B%20Work-F97316?style=for-the-badge)
 
 </div>
 
@@ -36,7 +38,7 @@ I build practical web apps with clean interfaces, thoughtful user flows, and pro
     </td>
     <td width="50%">
       <h3>Looking For</h3>
-      <p>Software, web development, IT/CS internship, volunteer, and entry-level opportunities where I can learn from a team and contribute consistently.</p>
+      <p>Software, web development, IT/CS internship, volunteer, and entry-level opportunities where I can learn from a team and contribute consistently. Expected graduation: December 2026.</p>
     </td>
   </tr>
 </table>
@@ -52,7 +54,8 @@ That mindset shows up in my projects. I have built AI-assisted apps, study produ
 ```txt
 Focus: clean interfaces, practical features, polished project presentation
 Learning: React, Next.js, TypeScript, Supabase, APIs, SQL, deployment workflows
-Open to: internships, entry-level software roles, web projects, and collaborative builds
+Open to: internships, work opportunities, entry-level software roles, web projects, and collaborative builds
+Graduation: December 2026
 ```
 
 ---
@@ -62,34 +65,30 @@ Open to: internships, entry-level software roles, web projects, and collaborativ
 <table>
   <tr>
     <td width="50%">
-      <a href="https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/">
-        <img src="./assets/project-snapchef.jpg" alt="SnapChef application homepage" width="100%" />
-      </a>
+      <img src="./assets/project-snapchef.jpg" alt="SnapChef application homepage" width="100%" />
       <h3>SnapChef</h3>
       <p>AI food image assistant with upload, results, saved scan history, nutrition notes, substitutions, and estimate details.</p>
+      <p><a href="https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/snapchef">Repository</a></p>
     </td>
     <td width="50%">
-      <a href="https://studyops-seven.vercel.app/">
-        <img src="./assets/project-studyops.jpg" alt="StudyOps dashboard preview" width="100%" />
-      </a>
+      <img src="./assets/project-studyops.jpg" alt="StudyOps dashboard preview" width="100%" />
       <h3>StudyOps</h3>
       <p>Study command center for notes, tasks, files, flashcards, quizzes, backups, and short-notice study planning.</p>
+      <p><a href="https://studyops-seven.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/StudyOps">Repository</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://hospital-website-psi-three.vercel.app/">
-        <img src="./assets/project-fortunatocare.jpg" alt="FortunatoCare hospital website homepage" width="100%" />
-      </a>
+      <img src="./assets/project-fortunatocare.jpg" alt="FortunatoCare hospital website homepage" width="100%" />
       <h3>FortunatoCare</h3>
       <p>Multi-page healthcare site with appointment intake, doctor profiles, separate service pages, organization copy, and portal account flow.</p>
+      <p><a href="https://hospital-website-psi-three.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/Hospital-Website">Repository</a></p>
     </td>
     <td width="50%">
-      <a href="https://campus-connect-phi-teal.vercel.app/">
-        <img src="./assets/project-campus-connect.jpg" alt="Campus Connect platform preview" width="100%" />
-      </a>
+      <img src="./assets/project-campus-connect.jpg" alt="Campus Connect platform preview" width="100%" />
       <h3>Campus Connect</h3>
       <p>Campus platform for tutors, events, groups, messages, reports, profile tools, and student hub actions.</p>
+      <p><a href="https://campus-connect-phi-teal.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/Campus-Connect">Repository</a></p>
     </td>
   </tr>
 </table>
@@ -100,13 +99,13 @@ Open to: internships, entry-level software roles, web projects, and collaborativ
 
 | Project | Why It Stands Out | Stack | Links |
 | --- | --- | --- | --- |
-| **SnapChef** | Full-stack AI food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows. | Next.js, React, TypeScript, Supabase, AI APIs | [Live Site](https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/) / [Repo](https://github.com/Fidel2197/snapchef) |
-| **StudyOps** | Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning. | HTML, CSS, JavaScript, localStorage | [Live Site](https://studyops-seven.vercel.app/) / [Repo](https://github.com/Fidel2197/StudyOps) |
-| **Campus Connect** | Multi-page student platform for tutors, events, groups, messages, map pins, reports, profiles, and grouped hub actions. | HTML, CSS, JavaScript | [Live Site](https://campus-connect-phi-teal.vercel.app/) / [Repo](https://github.com/Fidel2197/Campus-Connect) |
-| **FortunatoCare** | Hospital website with separate pages, appointment intake, doctor profiles, company-ready messaging, unique healthcare imagery, and a portal account flow. | HTML, CSS, JavaScript, localStorage | [Live Site](https://hospital-website-psi-three.vercel.app/) / [Repo](https://github.com/Fidel2197/Hospital-Website) |
-| **FitNex** | Fitness tracker website with workout logging, weekly goals, progress summaries, guidance content, and responsive pages. | HTML, CSS, Bootstrap, JavaScript | [Live Site](https://fitness-website-tawny.vercel.app/) / [Repo](https://github.com/Fidel2197/Fitness-Website) |
-| **Arcane Duel** | Canvas gesture-combat game with spell drawing, cooldowns, health, mana, difficulty modes, pause, and quit controls. | HTML, CSS, JavaScript, Canvas | [Live Site](https://arcane-duel-sable.vercel.app/) / [Repo](https://github.com/Fidel2197/Arcane-Duel) |
-| **Tetris Game** | Browser Tetris game with scoring, levels, hold, next preview, ghost piece, keyboard controls, pause, restart, and quit flow. | HTML, CSS, JavaScript, Canvas | [Live Site](https://tetris-game-fidel2197.vercel.app/) / [Repo](https://github.com/Fidel2197/Tetris-Game) |
+| **SnapChef** | Full-stack AI food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows. | Next.js, React, TypeScript, Supabase, AI APIs | [Live Site](https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/) / [Repository](https://github.com/Fidel2197/snapchef) |
+| **StudyOps** | Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning. | HTML, CSS, JavaScript, localStorage | [Live Site](https://studyops-seven.vercel.app/) / [Repository](https://github.com/Fidel2197/StudyOps) |
+| **Campus Connect** | Multi-page student platform for tutors, events, groups, messages, map pins, reports, profiles, and grouped hub actions. | HTML, CSS, JavaScript | [Live Site](https://campus-connect-phi-teal.vercel.app/) / [Repository](https://github.com/Fidel2197/Campus-Connect) |
+| **FortunatoCare** | Hospital website with separate pages, appointment intake, doctor profiles, company-ready messaging, unique healthcare imagery, and a portal account flow. | HTML, CSS, JavaScript, localStorage | [Live Site](https://hospital-website-psi-three.vercel.app/) / [Repository](https://github.com/Fidel2197/Hospital-Website) |
+| **FitNex** | Fitness tracker website with workout logging, weekly goals, progress summaries, guidance content, and responsive pages. | HTML, CSS, Bootstrap, JavaScript | [Live Site](https://fitness-website-tawny.vercel.app/) / [Repository](https://github.com/Fidel2197/Fitness-Website) |
+| **Arcane Duel** | Canvas gesture-combat game with spell drawing, cooldowns, health, mana, difficulty modes, pause, and quit controls. | HTML, CSS, JavaScript, Canvas | [Live Site](https://arcane-duel-sable.vercel.app/) / [Repository](https://github.com/Fidel2197/Arcane-Duel) |
+| **Tetris Game** | Browser Tetris game with scoring, levels, hold, next preview, ghost piece, keyboard controls, pause, restart, and quit flow. | HTML, CSS, JavaScript, Canvas | [Live Site](https://tetris-game-fidel2197.vercel.app/) / [Repository](https://github.com/Fidel2197/Tetris-Game) |
 
 ---
 

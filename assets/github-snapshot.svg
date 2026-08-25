@@ -42,8 +42,8 @@
     <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
     <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accent)"/>
     <text x="88" y="54" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">Open</text>
-    <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">to internships</text>
-    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">software, web, IT/CS experience</text>
+    <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">to internships + work</text>
+    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">graduating December 2026</text>
   </g>
   <text x="54" y="324" fill="#DDEBFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Core stack: HTML, CSS, JavaScript, React, Next.js, TypeScript, Supabase, SQL, Python, Java, Git, GitHub, Vercel</text>
 </svg>
