@@ -1,7 +1,7 @@
 <div align="center">
 
 <a id="profile-banner">
-  <img src="./assets/profile-bubbles.svg" alt="Fidel Anyanwu profile banner with floating bubbles" width="100%" />
+  <img src="./assets/profile-color-bubbles.svg" alt="Fidel Anyanwu profile banner with floating bubbles" width="100%" />
 </a>
 
 # Hi, I'm Fidel Anyanwu
@@ -181,7 +181,7 @@ Graduation: December 2026
 </a>
 
 <a id="github-snapshot-preview">
-  <img src="./assets/github-snapshot.svg" alt="Fidel Anyanwu GitHub snapshot" width="100%" />
+  <img src="./assets/github-snapshot-motion.svg" alt="Fidel Anyanwu GitHub snapshot" width="100%" />
 </a>
 
 </div>
