@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/profile-wave.svg" alt="Fidel Anyanwu profile banner" width="100%" />
+<a id="profile-banner">
+  <img src="./assets/profile-wave.svg" alt="Fidel Anyanwu profile banner" width="100%" />
+</a>
 
 # Hi, I'm Fidel Anyanwu
 
@@ -65,13 +67,17 @@ Graduation: December 2026
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/project-snapchef.jpg" alt="SnapChef application homepage" width="100%" />
+      <a id="snapchef-preview">
+        <img src="./assets/project-snapchef.jpg" alt="SnapChef application homepage" width="100%" />
+      </a>
       <h3>SnapChef</h3>
       <p>AI food image assistant with upload, results, saved scan history, nutrition notes, substitutions, and estimate details.</p>
       <p><a href="https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/snapchef">Repository</a></p>
     </td>
     <td width="50%">
-      <img src="./assets/project-studyops.jpg" alt="StudyOps dashboard preview" width="100%" />
+      <a id="studyops-preview">
+        <img src="./assets/project-studyops.jpg" alt="StudyOps dashboard preview" width="100%" />
+      </a>
       <h3>StudyOps</h3>
       <p>Study command center for notes, tasks, files, flashcards, quizzes, backups, and short-notice study planning.</p>
       <p><a href="https://studyops-seven.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/StudyOps">Repository</a></p>
@@ -79,13 +85,17 @@ Graduation: December 2026
   </tr>
   <tr>
     <td width="50%">
-      <img src="./assets/project-fortunatocare.jpg" alt="FortunatoCare hospital website homepage" width="100%" />
+      <a id="fortunatocare-preview">
+        <img src="./assets/project-fortunatocare.jpg" alt="FortunatoCare hospital website homepage" width="100%" />
+      </a>
       <h3>FortunatoCare</h3>
       <p>Multi-page healthcare site with appointment intake, doctor profiles, separate service pages, organization copy, and portal account flow.</p>
       <p><a href="https://hospital-website-psi-three.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/Hospital-Website">Repository</a></p>
     </td>
     <td width="50%">
-      <img src="./assets/project-campus-connect.jpg" alt="Campus Connect platform preview" width="100%" />
+      <a id="campus-connect-preview">
+        <img src="./assets/project-campus-connect.jpg" alt="Campus Connect platform preview" width="100%" />
+      </a>
       <h3>Campus Connect</h3>
       <p>Campus platform for tutors, events, groups, messages, reports, profile tools, and student hub actions.</p>
       <p><a href="https://campus-connect-phi-teal.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/Campus-Connect">Repository</a></p>
@@ -150,7 +160,9 @@ Graduation: December 2026
 
 <div align="center">
 
-<img src="./assets/github-snapshot.svg" alt="Fidel Anyanwu GitHub snapshot" width="100%" />
+<a id="github-snapshot-preview">
+  <img src="./assets/github-snapshot.svg" alt="Fidel Anyanwu GitHub snapshot" width="100%" />
+</a>
 
 </div>
 
