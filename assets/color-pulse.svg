@@ -1,0 +1,46 @@
+<svg width="1280" height="104" viewBox="0 0 1280 104" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated color pulse divider</title>
+  <desc id="desc">A decorative animated divider with colorful floating bubbles.</desc>
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1280" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.34" stop-color="#14B8A6"/>
+      <stop offset="0.68" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#DBEAFE" stop-opacity="0.52"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0.04"/>
+    </radialGradient>
+    <radialGradient id="glowMint" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#CCFBF1" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0.04"/>
+    </radialGradient>
+    <radialGradient id="glowPeach" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#FED7AA" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0.04"/>
+    </radialGradient>
+  </defs>
+  <rect x="20" y="34" width="1240" height="36" rx="18" fill="url(#rail)" opacity="0.26"/>
+  <rect x="80" y="48" width="1120" height="8" rx="4" fill="#FFFFFF" opacity="0.2"/>
+  <circle cx="170" cy="52" r="46" fill="url(#glowBlue)">
+    <animate attributeName="cx" values="170;220;142;170" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="46;54;40;46" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;0.95;0.65;0.55" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="462" cy="50" r="34" fill="url(#glowMint)">
+    <animate attributeName="cx" values="462;518;430;462" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="50;38;62;50" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.9;0.6;0.5" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="790" cy="52" r="42" fill="url(#glowPeach)">
+    <animate attributeName="cx" values="790;840;758;790" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="42;52;36;42" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.45;0.82;0.58;0.45" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1112" cy="52" r="38" fill="url(#glowMint)">
+    <animate attributeName="cx" values="1112;1160;1084;1112" dur="7.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="52;40;62;52" dur="7.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.92;0.64;0.5" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

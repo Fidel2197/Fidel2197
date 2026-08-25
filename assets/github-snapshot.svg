@@ -1,45 +1,83 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Fidel Anyanwu GitHub snapshot</title>
-  <desc id="desc">A visual summary of Fidel Anyanwu's GitHub profile and project strengths.</desc>
+  <desc id="desc">An animated visual summary of Fidel Anyanwu's GitHub profile and project strengths.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A"/>
-      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="0.34" stop-color="#1E3A8A"/>
+      <stop offset="0.7" stop-color="#5B21B6"/>
       <stop offset="1" stop-color="#0F766E"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#60A5FA"/>
+      <stop offset="0.52" stop-color="#A78BFA"/>
       <stop offset="1" stop-color="#2DD4BF"/>
     </linearGradient>
+    <linearGradient id="accentWarm" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#F0ABFC"/>
+    </linearGradient>
+    <radialGradient id="bubbleCyan" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#BAE6FD" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0284C7" stop-opacity="0.03"/>
+    </radialGradient>
+    <radialGradient id="bubblePink" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#F0ABFC" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#A21CAF" stop-opacity="0.04"/>
+    </radialGradient>
+    <radialGradient id="bubbleGold" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#FED7AA" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0.04"/>
+    </radialGradient>
   </defs>
   <rect width="1280" height="360" rx="24" fill="url(#panel)"/>
-  <circle cx="1082" cy="74" r="155" fill="#2563EB" opacity="0.14"/>
-  <circle cx="136" cy="312" r="150" fill="#14B8A6" opacity="0.12"/>
+  <circle cx="1082" cy="74" r="155" fill="url(#bubbleCyan)" opacity="0.2">
+    <animate attributeName="cx" values="1082;1128;1056;1082" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="74;56;98;74" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="155;174;142;155" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.16;0.27;0.2;0.16" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="136" cy="312" r="150" fill="url(#bubblePink)" opacity="0.18">
+    <animate attributeName="cx" values="136;98;172;136" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="312;282;330;312" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="150;168;138;150" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.24;0.17;0.12" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="738" cy="62" r="78" fill="url(#bubbleGold)" opacity="0.15">
+    <animate attributeName="cx" values="738;786;710;738" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="62;44;82;62" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;0.22;0.14;0.1" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="946" cy="302" r="88" fill="url(#bubbleCyan)" opacity="0.14">
+    <animate attributeName="cx" values="946;988;922;946" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="302;276;322;302" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="88;102;80;88" dur="11s" repeatCount="indefinite"/>
+  </circle>
   <text x="54" y="74" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">GitHub Snapshot</text>
   <text x="54" y="112" fill="#BFD7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">A quick read on what I build, how I present work, and where I am growing.</text>
   <g transform="translate(54 154)">
-    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
-    <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accent)"/>
+    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.1" stroke="#93C5FD" stroke-opacity="0.28"/>
+    <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accentWarm)"/>
     <text x="88" y="54" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">8+</text>
     <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">portfolio projects</text>
-    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">AI, healthcare, study tools, games</text>
+    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">food tools, healthcare, study, games</text>
   </g>
   <g transform="translate(356 154)">
-    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.1" stroke="#C4B5FD" stroke-opacity="0.28"/>
     <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accent)"/>
     <text x="88" y="54" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">7</text>
     <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">live deployments</text>
-    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Vercel links recruiters can open</text>
+    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Vercel links anyone can open</text>
   </g>
   <g transform="translate(658 154)">
-    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
-    <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accent)"/>
+    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.1" stroke="#FDBA74" stroke-opacity="0.28"/>
+    <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accentWarm)"/>
     <text x="88" y="54" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">Full</text>
     <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">project packaging</text>
     <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">README, screenshots, QA, polish</text>
   </g>
   <g transform="translate(960 154)">
-    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.1" stroke="#5EEAD4" stroke-opacity="0.28"/>
     <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accent)"/>
     <text x="88" y="54" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">Open</text>
     <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">to internships + work</text>

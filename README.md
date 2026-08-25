@@ -24,6 +24,10 @@ I build practical web apps with clean interfaces, thoughtful user flows, and pro
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%2B%20Work-F97316?style=for-the-badge" alt="Open to internships and work" />
 </p>
 
+<a id="intro-color-pulse">
+  <img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
+</a>
+
 </div>
 
 ---
@@ -52,6 +56,10 @@ I build practical web apps with clean interfaces, thoughtful user flows, and pro
     </td>
   </tr>
 </table>
+
+<a id="quick-look-color-pulse">
+  <img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
+</a>
 
 ---
 
@@ -107,6 +115,10 @@ Graduation: December 2026
   </tr>
 </table>
 
+<a id="gallery-color-pulse">
+  <img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
+</a>
+
 ---
 
 ## Featured Work
@@ -141,20 +153,20 @@ Graduation: December 2026
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F97316)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 </div>
 
@@ -163,6 +175,10 @@ Graduation: December 2026
 ## GitHub Snapshot
 
 <div align="center">
+
+<a id="snapshot-color-pulse">
+  <img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
+</a>
 
 <a id="github-snapshot-preview">
   <img src="./assets/github-snapshot.svg" alt="Fidel Anyanwu GitHub snapshot" width="100%" />
