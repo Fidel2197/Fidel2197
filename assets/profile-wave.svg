@@ -1,0 +1,35 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fidel Anyanwu profile banner</title>
+  <desc id="desc">A flowing blue and teal banner for Fidel Anyanwu's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.45" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="150" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#020617" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="1020" cy="64" r="120" fill="#14B8A6" opacity="0.16"/>
+  <circle cx="190" cy="265" r="170" fill="#60A5FA" opacity="0.11"/>
+  <path d="M0 240C130 184 237 197 351 229C471 263 578 307 721 256C864 205 953 106 1096 122C1176 131 1232 163 1280 196V320H0V240Z" fill="url(#wave)"/>
+  <path d="M0 270C142 218 259 226 392 252C528 279 655 316 801 265C944 216 1043 156 1168 178C1214 186 1251 201 1280 217V320H0V270Z" fill="#F8FAFC" opacity="0.2"/>
+  <g filter="url(#softShadow)">
+    <rect x="78" y="70" width="1124" height="172" rx="24" fill="#0B1120" opacity="0.32"/>
+  </g>
+  <text x="112" y="132" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Fidel Anyanwu</text>
+  <text x="114" y="177" fill="#DDEBFF" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="650">Computer Science Student | Web Developer | Research and Teaching Assistant</text>
+  <text x="114" y="214" fill="#BFE7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">Building practical web apps, clean interfaces, and project experiences that recruiters can understand quickly.</text>
+  <g transform="translate(920 98)">
+    <rect width="216" height="96" rx="18" fill="#FFFFFF" opacity="0.14"/>
+    <text x="24" y="38" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Open to internships</text>
+    <text x="24" y="68" fill="#C7F9F1" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Web + software roles</text>
+  </g>
+</svg>

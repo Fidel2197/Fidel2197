@@ -1,15 +1,12 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:2563EB,100:14B8A6&text=Fidel%20Anyanwu&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Web%20Developer%20%7C%20Research%20and%20Teaching%20Assistant&descAlignY=58&descSize=16"
-  alt="Fidel Anyanwu profile banner"
-/>
+<img src="./assets/profile-wave.svg" alt="Fidel Anyanwu profile banner" width="100%" />
 
 # Hi, I'm Fidel Anyanwu
 
 ### Computer Science Student | Web Developer | Research and Teaching Assistant
 
-I build polished web apps, practical student tools, and deploy-ready project experiences with clean interfaces, clear user flows, and strong project presentation.
+I build practical web apps with clean interfaces, thoughtful user flows, and project pages that make the work easy to understand. I am growing toward software, web, and IT/CS internship roles where I can keep learning while contributing real features.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-2563EB?style=for-the-badge)](https://fidel-portfolio-eta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel%20Anyanwu-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/fidel-anyanwu-98a34124b/)
@@ -25,21 +22,21 @@ I build polished web apps, practical student tools, and deploy-ready project exp
   <tr>
     <td width="50%">
       <h3>What I Build</h3>
-      <p>Responsive websites, full-stack app features, dashboards, auth-style flows, localStorage apps, AI-assisted tools, and browser games.</p>
+      <p>Responsive websites, full-stack app features, dashboards, forms, auth-style flows, localStorage apps, AI-assisted tools, and browser games.</p>
     </td>
     <td width="50%">
       <h3>What I Bring</h3>
-      <p>Clean UI thinking, practical problem solving, strong documentation, live deployments, and projects that are easy to evaluate quickly.</p>
+      <p>I care about making projects feel finished: clear UI, readable README files, live links, screenshots, deployment checks, and user flows that make sense.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Current Direction</h3>
-      <p>Growing through React, Next.js, TypeScript, Supabase, API work, SQL, testing habits, and deployment workflows.</p>
+      <p>I am strengthening my React, Next.js, TypeScript, Supabase, API, SQL, and deployment skills while continuing to build portfolio-ready apps.</p>
     </td>
     <td width="50%">
       <h3>Looking For</h3>
-      <p>Internships, entry-level software roles, web development work, and teams where I can keep learning while contributing real features.</p>
+      <p>Software, web development, IT/CS internship, volunteer, and entry-level opportunities where I can learn from a team and contribute consistently.</p>
     </td>
   </tr>
 </table>
@@ -48,15 +45,54 @@ I build polished web apps, practical student tools, and deploy-ready project exp
 
 ## About Me
 
-I am a computer science student focused on building useful, well-designed software. My projects include AI-assisted apps, productivity tools, campus platforms, browser games, healthcare websites, fitness tracking interfaces, and collaborative full-stack work.
+I am a computer science student at McNeese State University who enjoys turning ideas into usable, presentable projects. A lot of my work starts with a simple question: "Would someone understand what to do here without me explaining it?"
 
-I care about clean interfaces, clear user flows, responsive layouts, readable documentation, and projects that are easy for recruiters, teammates, and users to understand quickly.
+That mindset shows up in my projects. I have built AI-assisted apps, study productivity tools, campus platforms, browser games, healthcare websites, fitness interfaces, and collaborative full-stack work. I like the mix of design, logic, data, and deployment because it forces me to think about the whole experience, not just one file.
 
 ```txt
-Focus: portfolio-ready web apps, full-stack features, polished UI systems
+Focus: clean interfaces, practical features, polished project presentation
 Learning: React, Next.js, TypeScript, Supabase, APIs, SQL, deployment workflows
-Open to: internships, entry-level software roles, web projects, collaborative builds
+Open to: internships, entry-level software roles, web projects, and collaborative builds
 ```
+
+---
+
+## Project Gallery
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/">
+        <img src="./assets/project-snapchef.jpg" alt="SnapChef application homepage" width="100%" />
+      </a>
+      <h3>SnapChef</h3>
+      <p>AI food image assistant with upload, results, saved scan history, nutrition notes, substitutions, and estimate details.</p>
+    </td>
+    <td width="50%">
+      <a href="https://studyops-seven.vercel.app/">
+        <img src="./assets/project-studyops.jpg" alt="StudyOps dashboard preview" width="100%" />
+      </a>
+      <h3>StudyOps</h3>
+      <p>Study command center for notes, tasks, files, flashcards, quizzes, backups, and short-notice study planning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://hospital-website-psi-three.vercel.app/">
+        <img src="./assets/project-fortunatocare.jpg" alt="FortunatoCare hospital website homepage" width="100%" />
+      </a>
+      <h3>FortunatoCare</h3>
+      <p>Multi-page healthcare site with appointment intake, doctor profiles, separate service pages, organization copy, and portal account flow.</p>
+    </td>
+    <td width="50%">
+      <a href="https://campus-connect-phi-teal.vercel.app/">
+        <img src="./assets/project-campus-connect.jpg" alt="Campus Connect platform preview" width="100%" />
+      </a>
+      <h3>Campus Connect</h3>
+      <p>Campus platform for tutors, events, groups, messages, reports, profile tools, and student hub actions.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -88,27 +124,6 @@ Open to: internships, entry-level software roles, web projects, collaborative bu
 
 ---
 
-## What I Like Building
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Frontend Experiences</h3>
-      <p>Responsive pages, dashboards, landing pages, component layouts, forms, and polished project interfaces.</p>
-    </td>
-    <td width="33%">
-      <h3>Full-Stack Features</h3>
-      <p>Auth-style flows, saved records, API integrations, Supabase data, localStorage state, and practical app workflows.</p>
-    </td>
-    <td width="33%">
-      <h3>Project Presentation</h3>
-      <p>Readable READMEs, live deployment checks, portfolio cards, screenshots, and GitHub-ready documentation.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Tech Toolbox
 
 <div align="center">
@@ -136,19 +151,18 @@ Open to: internships, entry-level software roles, web projects, collaborative bu
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fidel2197&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Fidel Anyanwu GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidel2197&layout=compact&theme=tokyonight&hide_border=true" alt="Fidel Anyanwu top languages" />
+<img src="./assets/github-snapshot.svg" alt="Fidel Anyanwu GitHub snapshot" width="100%" />
 
 </div>
 
 ---
 
-## Profile Highlights
+## How I Approach Projects
 
-- Every featured project includes either a live deployment, a repository, or both.
-- My portfolio connects recruiters to polished project pages instead of loose code links.
-- I keep improving older projects so they look finished, not abandoned.
-- I care about making the user's next action obvious, whether that is signing in, booking an appointment, logging a workout, or reviewing a dashboard.
+- I start with the user flow first: what should someone understand or do in the first few seconds?
+- I make projects feel real by adding polished copy, useful empty states, forms, saved state, and live links.
+- I keep improving older work instead of leaving it half-finished.
+- I care about presentation because clean documentation and screenshots help people trust the code faster.
 
 ---
 
@@ -156,8 +170,8 @@ Open to: internships, entry-level software roles, web projects, collaborative bu
 
 - Strengthening my portfolio for internship, job, and company applications.
 - Turning class and personal projects into clean live sites with strong README documentation.
-- Building better user account flows, saved app state, dashboards, and responsive interfaces.
-- Keeping my GitHub repositories easier to review with project links, screenshots, and clear setup notes.
+- Building better account flows, saved app state, dashboards, and responsive interfaces.
+- Keeping my GitHub repositories easier to review with project links, screenshots, setup notes, and live QA.
 
 ---
 

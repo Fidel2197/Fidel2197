@@ -1,0 +1,49 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fidel Anyanwu GitHub snapshot</title>
+  <desc id="desc">A visual summary of Fidel Anyanwu's GitHub profile and project strengths.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#panel)"/>
+  <circle cx="1082" cy="74" r="155" fill="#2563EB" opacity="0.14"/>
+  <circle cx="136" cy="312" r="150" fill="#14B8A6" opacity="0.12"/>
+  <text x="54" y="74" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">GitHub Snapshot</text>
+  <text x="54" y="112" fill="#BFD7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">A quick read on what I build, how I present work, and where I am growing.</text>
+  <g transform="translate(54 154)">
+    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accent)"/>
+    <text x="88" y="54" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">8+</text>
+    <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">portfolio projects</text>
+    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">AI, healthcare, study tools, games</text>
+  </g>
+  <g transform="translate(356 154)">
+    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accent)"/>
+    <text x="88" y="54" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">7</text>
+    <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">live deployments</text>
+    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Vercel links recruiters can open</text>
+  </g>
+  <g transform="translate(658 154)">
+    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accent)"/>
+    <text x="88" y="54" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">Full</text>
+    <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">project packaging</text>
+    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">README, screenshots, QA, polish</text>
+  </g>
+  <g transform="translate(960 154)">
+    <rect width="270" height="130" rx="18" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="22" y="22" width="48" height="48" rx="12" fill="url(#accent)"/>
+    <text x="88" y="54" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800">Open</text>
+    <text x="88" y="82" fill="#D8EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">to internships</text>
+    <text x="22" y="112" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">software, web, IT/CS experience</text>
+  </g>
+  <text x="54" y="324" fill="#DDEBFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Core stack: HTML, CSS, JavaScript, React, Next.js, TypeScript, Supabase, SQL, Python, Java, Git, GitHub, Vercel</text>
+</svg>
