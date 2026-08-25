@@ -1,7 +1,7 @@
 <div align="center">
 
 <a id="profile-banner">
-  <img src="./assets/profile-wave.svg" alt="Fidel Anyanwu profile banner" width="100%" />
+  <img src="./assets/profile-bubbles.svg" alt="Fidel Anyanwu profile banner with floating bubbles" width="100%" />
 </a>
 
 # Hi, I'm Fidel Anyanwu
