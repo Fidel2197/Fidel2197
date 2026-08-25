@@ -5,15 +5,44 @@
   alt="Fidel Anyanwu profile banner"
 />
 
-# Hi, I'm Fidel
+# Hi, I'm Fidel Anyanwu
 
-### I build polished web apps, practical student tools, and deploy-ready project experiences.
+### Computer Science Student | Web Developer | Research and Teaching Assistant
+
+I build polished web apps, practical student tools, and deploy-ready project experiences with clean interfaces, clear user flows, and strong project presentation.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-2563EB?style=for-the-badge)](https://fidel-portfolio-eta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel%20Anyanwu-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/fidel-anyanwu-98a34124b/)
 [![Email](https://img.shields.io/badge/Email-fanyanwu%40mcneese.edu-14B8A6?style=for-the-badge)](mailto:fanyanwu@mcneese.edu)
 
 </div>
+
+---
+
+## Recruiter Snapshot
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>What I Build</h3>
+      <p>Responsive websites, full-stack app features, dashboards, auth-style flows, localStorage apps, AI-assisted tools, and browser games.</p>
+    </td>
+    <td width="50%">
+      <h3>What I Bring</h3>
+      <p>Clean UI thinking, practical problem solving, strong documentation, live deployments, and projects that are easy to evaluate quickly.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Current Direction</h3>
+      <p>Growing through React, Next.js, TypeScript, Supabase, API work, SQL, testing habits, and deployment workflows.</p>
+    </td>
+    <td width="50%">
+      <h3>Looking For</h3>
+      <p>Internships, entry-level software roles, web development work, and teams where I can keep learning while contributing real features.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,24 +53,38 @@ I am a computer science student focused on building useful, well-designed softwa
 I care about clean interfaces, clear user flows, responsive layouts, readable documentation, and projects that are easy for recruiters, teammates, and users to understand quickly.
 
 ```txt
-Currently building: portfolio-ready web apps, full-stack projects, and polished UI systems
-Currently learning: React, Next.js, TypeScript, Supabase, APIs, SQL, and stronger deployment workflows
-Open to: internships, entry-level software roles, web projects, and collaborative builds
+Focus: portfolio-ready web apps, full-stack features, polished UI systems
+Learning: React, Next.js, TypeScript, Supabase, APIs, SQL, deployment workflows
+Open to: internships, entry-level software roles, web projects, collaborative builds
 ```
 
 ---
 
 ## Featured Work
 
-| Project | What It Is | Stack | Links |
+| Project | Why It Stands Out | Stack | Links |
 | --- | --- | --- | --- |
-| **SnapChef** | AI food image assistant that turns meal photos into dish ideas, ingredients, steps, nutrition notes, substitutions, estimates, and saved scans. | Next.js, React, TypeScript, Supabase, AI APIs | [Live Site](https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/) / [Repo](https://github.com/Fidel2197/snapchef) |
-| **StudyOps** | Browser study command center for files, notes, tasks, flashcards, quizzes, backups, and short-notice study planning. | HTML, CSS, JavaScript, localStorage | [Live Site](https://studyops-seven.vercel.app/) / [Repo](https://github.com/Fidel2197/StudyOps) |
-| **Campus Connect** | Multi-page campus platform for tutors, events, groups, messages, map pins, reports, profiles, and student hub actions. | HTML, CSS, JavaScript | [Live Site](https://campus-connect-phi-teal.vercel.app/) / [Repo](https://github.com/Fidel2197/Campus-Connect) |
-| **FortunatoCare** | Multi-page hospital website with appointment intake, doctor profiles, company-ready care messaging, unique healthcare imagery, and a patient portal account flow. | HTML, CSS, JavaScript, localStorage | [Live Site](https://hospital-website-psi-three.vercel.app/) / [Repo](https://github.com/Fidel2197/Hospital-Website) |
+| **SnapChef** | Full-stack AI food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows. | Next.js, React, TypeScript, Supabase, AI APIs | [Live Site](https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/) / [Repo](https://github.com/Fidel2197/snapchef) |
+| **StudyOps** | Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning. | HTML, CSS, JavaScript, localStorage | [Live Site](https://studyops-seven.vercel.app/) / [Repo](https://github.com/Fidel2197/StudyOps) |
+| **Campus Connect** | Multi-page student platform for tutors, events, groups, messages, map pins, reports, profiles, and grouped hub actions. | HTML, CSS, JavaScript | [Live Site](https://campus-connect-phi-teal.vercel.app/) / [Repo](https://github.com/Fidel2197/Campus-Connect) |
+| **FortunatoCare** | Hospital website with separate pages, appointment intake, doctor profiles, company-ready messaging, unique healthcare imagery, and a portal account flow. | HTML, CSS, JavaScript, localStorage | [Live Site](https://hospital-website-psi-three.vercel.app/) / [Repo](https://github.com/Fidel2197/Hospital-Website) |
 | **FitNex** | Fitness tracker website with workout logging, weekly goals, progress summaries, guidance content, and responsive pages. | HTML, CSS, Bootstrap, JavaScript | [Live Site](https://fitness-website-tawny.vercel.app/) / [Repo](https://github.com/Fidel2197/Fitness-Website) |
-| **Arcane Duel** | Canvas gesture-combat game where players draw spell shapes to attack, defend, dodge, and survive. | HTML, CSS, JavaScript, Canvas | [Live Site](https://arcane-duel-sable.vercel.app/) / [Repo](https://github.com/Fidel2197/Arcane-Duel) |
-| **Tetris Game** | Browser Tetris game with scoring, levels, hold, next preview, ghost piece, pause, restart, and quit flow. | HTML, CSS, JavaScript, Canvas | [Live Site](https://tetris-game-fidel2197.vercel.app/) / [Repo](https://github.com/Fidel2197/Tetris-Game) |
+| **Arcane Duel** | Canvas gesture-combat game with spell drawing, cooldowns, health, mana, difficulty modes, pause, and quit controls. | HTML, CSS, JavaScript, Canvas | [Live Site](https://arcane-duel-sable.vercel.app/) / [Repo](https://github.com/Fidel2197/Arcane-Duel) |
+| **Tetris Game** | Browser Tetris game with scoring, levels, hold, next preview, ghost piece, keyboard controls, pause, restart, and quit flow. | HTML, CSS, JavaScript, Canvas | [Live Site](https://tetris-game-fidel2197.vercel.app/) / [Repo](https://github.com/Fidel2197/Tetris-Game) |
+
+---
+
+## Skills
+
+| Area | Skills |
+| --- | --- |
+| **Frontend** | HTML, CSS, JavaScript, responsive layouts, forms, dashboards, accessibility-minded UI, Bootstrap |
+| **Modern Web** | React, Next.js, TypeScript, component-based interfaces, API routes |
+| **Backend and Data** | Supabase, SQL, T-SQL, saved records, auth-style flows, verification flows |
+| **Programming** | Python, Java, JavaScript, TypeScript |
+| **App State** | localStorage, account-style sessions, saved tasks, scan history, user settings |
+| **Deployment and Docs** | Git, GitHub, Vercel, live-site QA, README writing, screenshots, project cleanup |
+| **Professional Tools** | Excel, Word, PowerPoint, Microsoft 365 workflows |
 
 ---
 
@@ -97,6 +140,15 @@ Open to: internships, entry-level software roles, web projects, and collaborativ
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidel2197&layout=compact&theme=tokyonight&hide_border=true" alt="Fidel Anyanwu top languages" />
 
 </div>
+
+---
+
+## Profile Highlights
+
+- Every featured project includes either a live deployment, a repository, or both.
+- My portfolio connects recruiters to polished project pages instead of loose code links.
+- I keep improving older projects so they look finished, not abandoned.
+- I care about making the user's next action obvious, whether that is signing in, booking an appointment, logging a workout, or reviewing a dashboard.
 
 ---
 
