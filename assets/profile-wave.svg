@@ -1,6 +1,6 @@
 <svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Fidel Anyanwu profile banner</title>
-  <desc id="desc">A flowing blue and teal banner for Fidel Anyanwu's GitHub profile.</desc>
+  <desc id="desc">An animated blue and teal banner with floating translucent bubbles for Fidel Anyanwu's GitHub profile.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A"/>
@@ -17,12 +17,31 @@
     </filter>
   </defs>
   <rect width="1280" height="340" rx="28" fill="url(#bg)"/>
-  <circle cx="1040" cy="70" r="128" fill="#14B8A6" opacity="0.18"/>
-  <circle cx="190" cy="272" r="178" fill="#60A5FA" opacity="0.13"/>
+  <circle cx="1040" cy="70" r="128" fill="#14B8A6" opacity="0.18">
+    <animate attributeName="cx" values="1040;1072;1028;1040" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="70;54;86;70" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="128;138;122;128" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.16;0.23;0.18;0.16" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="190" cy="272" r="178" fill="#60A5FA" opacity="0.13">
+    <animate attributeName="cx" values="190;150;216;190" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="272;248;292;272" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="178;194;168;178" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.11;0.17;0.13;0.11" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1115" cy="226" r="116" fill="#2DD4BF" opacity="0.16">
+    <animate attributeName="cx" values="1115;1162;1096;1115" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="226;208;242;226" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="116;128;108;116" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.2;0.16;0.12" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="645" cy="92" r="74" fill="#93C5FD" opacity="0.1">
+    <animate attributeName="cx" values="645;674;624;645" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="92;76;106;92" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.08;0.15;0.1;0.08" dur="8s" repeatCount="indefinite"/>
+  </circle>
   <path d="M0 235C140 176 246 184 365 222C502 265 616 304 755 236C892 169 980 98 1116 119C1187 130 1239 161 1280 193V340H0V235Z" fill="url(#wave)"/>
   <path d="M0 278C135 225 267 222 404 252C545 283 670 315 824 255C970 198 1068 164 1190 185C1232 192 1263 207 1280 219V340H0V278Z" fill="#F8FAFC" opacity="0.22"/>
-  <path d="M74 263C246 207 432 231 601 263C759 293 880 296 1018 233C1097 197 1162 190 1222 206" stroke="#D7F7FF" stroke-opacity="0.38" stroke-width="4" stroke-linecap="round"/>
-  <path d="M86 292C244 249 429 259 593 286C761 314 922 291 1057 237C1129 208 1182 205 1224 215" stroke="#99F6E4" stroke-opacity="0.32" stroke-width="3" stroke-linecap="round"/>
   <g filter="url(#softShadow)">
     <rect x="78" y="64" width="1124" height="190" rx="24" fill="#0B1120" opacity="0.34"/>
   </g>

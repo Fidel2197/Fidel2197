@@ -10,11 +10,19 @@
 
 I build practical web apps with clean interfaces, thoughtful user flows, and project pages that make the work easy to understand. I am open to internships and work opportunities while I finish my degree, with an expected graduation date of December 2026.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-2563EB?style=for-the-badge)](https://fidel-portfolio-eta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel%20Anyanwu-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/fidel-anyanwu-98a34124b/)
-[![Email](https://img.shields.io/badge/Email-fanyanwu%40mcneese.edu-14B8A6?style=for-the-badge)](mailto:fanyanwu@mcneese.edu)
-![Graduation](https://img.shields.io/badge/Graduation-December%202026-14B8A6?style=for-the-badge)
-![Open To Work](https://img.shields.io/badge/Open%20To-Internships%20%2B%20Work-F97316?style=for-the-badge)
+<p>
+  <a href="https://fidel-portfolio-eta.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge" alt="Portfolio website" />
+  </a>
+  <a href="https://www.linkedin.com/in/fidel-anyanwu-98a34124b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Fidel%20Anyanwu-0A66C2?style=for-the-badge" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:fanyanwu@mcneese.edu" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-fanyanwu%40mcneese.edu-14B8A6?style=for-the-badge" alt="Email Fidel Anyanwu" />
+  </a>
+  <img src="https://img.shields.io/badge/Graduation-December%202026-14B8A6?style=for-the-badge" alt="Graduation December 2026" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%2B%20Work-F97316?style=for-the-badge" alt="Open to internships and work" />
+</p>
 
 </div>
 
@@ -72,7 +80,7 @@ Graduation: December 2026
       </a>
       <h3>SnapChef</h3>
       <p>AI food image assistant with upload, results, saved scan history, nutrition notes, substitutions, and estimate details.</p>
-      <p><a href="https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/snapchef">Repository</a></p>
+      <p><strong>Links:</strong> <a href="https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> | <a href="https://github.com/Fidel2197/snapchef" target="_blank" rel="noopener noreferrer">Repository</a></p>
     </td>
     <td width="50%">
       <a id="studyops-preview">
@@ -80,7 +88,7 @@ Graduation: December 2026
       </a>
       <h3>StudyOps</h3>
       <p>Study command center for notes, tasks, files, flashcards, quizzes, backups, and short-notice study planning.</p>
-      <p><a href="https://studyops-seven.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/StudyOps">Repository</a></p>
+      <p><strong>Links:</strong> <a href="https://studyops-seven.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> | <a href="https://github.com/Fidel2197/StudyOps" target="_blank" rel="noopener noreferrer">Repository</a></p>
     </td>
   </tr>
   <tr>
@@ -90,7 +98,7 @@ Graduation: December 2026
       </a>
       <h3>FortunatoCare</h3>
       <p>Multi-page healthcare site with appointment intake, doctor profiles, separate service pages, organization copy, and portal account flow.</p>
-      <p><a href="https://hospital-website-psi-three.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/Hospital-Website">Repository</a></p>
+      <p><strong>Links:</strong> <a href="https://hospital-website-psi-three.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> | <a href="https://github.com/Fidel2197/Hospital-Website" target="_blank" rel="noopener noreferrer">Repository</a></p>
     </td>
     <td width="50%">
       <a id="campus-connect-preview">
@@ -98,7 +106,7 @@ Graduation: December 2026
       </a>
       <h3>Campus Connect</h3>
       <p>Campus platform for tutors, events, groups, messages, reports, profile tools, and student hub actions.</p>
-      <p><a href="https://campus-connect-phi-teal.vercel.app/">Live Site</a> | <a href="https://github.com/Fidel2197/Campus-Connect">Repository</a></p>
+      <p><strong>Links:</strong> <a href="https://campus-connect-phi-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> | <a href="https://github.com/Fidel2197/Campus-Connect" target="_blank" rel="noopener noreferrer">Repository</a></p>
     </td>
   </tr>
 </table>
@@ -107,15 +115,15 @@ Graduation: December 2026
 
 ## Featured Work
 
-| Project | Why It Stands Out | Stack | Links |
-| --- | --- | --- | --- |
-| **SnapChef** | Full-stack AI food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows. | Next.js, React, TypeScript, Supabase, AI APIs | [Live Site](https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/) / [Repository](https://github.com/Fidel2197/snapchef) |
-| **StudyOps** | Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning. | HTML, CSS, JavaScript, localStorage | [Live Site](https://studyops-seven.vercel.app/) / [Repository](https://github.com/Fidel2197/StudyOps) |
-| **Campus Connect** | Multi-page student platform for tutors, events, groups, messages, map pins, reports, profiles, and grouped hub actions. | HTML, CSS, JavaScript | [Live Site](https://campus-connect-phi-teal.vercel.app/) / [Repository](https://github.com/Fidel2197/Campus-Connect) |
-| **FortunatoCare** | Hospital website with separate pages, appointment intake, doctor profiles, company-ready messaging, unique healthcare imagery, and a portal account flow. | HTML, CSS, JavaScript, localStorage | [Live Site](https://hospital-website-psi-three.vercel.app/) / [Repository](https://github.com/Fidel2197/Hospital-Website) |
-| **FitNex** | Fitness tracker website with workout logging, weekly goals, progress summaries, guidance content, and responsive pages. | HTML, CSS, Bootstrap, JavaScript | [Live Site](https://fitness-website-tawny.vercel.app/) / [Repository](https://github.com/Fidel2197/Fitness-Website) |
-| **Arcane Duel** | Canvas gesture-combat game with spell drawing, cooldowns, health, mana, difficulty modes, pause, and quit controls. | HTML, CSS, JavaScript, Canvas | [Live Site](https://arcane-duel-sable.vercel.app/) / [Repository](https://github.com/Fidel2197/Arcane-Duel) |
-| **Tetris Game** | Browser Tetris game with scoring, levels, hold, next preview, ghost piece, keyboard controls, pause, restart, and quit flow. | HTML, CSS, JavaScript, Canvas | [Live Site](https://tetris-game-fidel2197.vercel.app/) / [Repository](https://github.com/Fidel2197/Tetris-Game) |
+| Project | Why It Stands Out | Stack |
+| --- | --- | --- |
+| **SnapChef** | Full-stack AI food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows. | Next.js, React, TypeScript, Supabase, AI APIs |
+| **StudyOps** | Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning. | HTML, CSS, JavaScript, localStorage |
+| **Campus Connect** | Multi-page student platform for tutors, events, groups, messages, map pins, reports, profiles, and grouped hub actions. | HTML, CSS, JavaScript |
+| **FortunatoCare** | Hospital website with separate pages, appointment intake, doctor profiles, company-ready messaging, unique healthcare imagery, and a portal account flow. | HTML, CSS, JavaScript, localStorage |
+| **FitNex** | Fitness tracker website with workout logging, weekly goals, progress summaries, guidance content, and responsive pages. | HTML, CSS, Bootstrap, JavaScript |
+| **Arcane Duel** | Canvas gesture-combat game with spell drawing, cooldowns, health, mana, difficulty modes, pause, and quit controls. | HTML, CSS, JavaScript, Canvas |
+| **Tetris Game** | Browser Tetris game with scoring, levels, hold, next preview, ghost piece, keyboard controls, pause, restart, and quit flow. | HTML, CSS, JavaScript, Canvas |
 
 ---
 
@@ -188,10 +196,10 @@ Graduation: December 2026
 
 ## Connect
 
-- Portfolio: [fidel-portfolio-eta.vercel.app](https://fidel-portfolio-eta.vercel.app/)
-- LinkedIn: [Fidel Anyanwu](https://www.linkedin.com/in/fidel-anyanwu-98a34124b/)
-- Email: [fanyanwu@mcneese.edu](mailto:fanyanwu@mcneese.edu)
-- GitHub: [Fidel2197](https://github.com/Fidel2197)
+- Portfolio: <a href="https://fidel-portfolio-eta.vercel.app/" target="_blank" rel="noopener noreferrer">fidel-portfolio-eta.vercel.app</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/fidel-anyanwu-98a34124b/" target="_blank" rel="noopener noreferrer">Fidel Anyanwu</a>
+- Email: <a href="mailto:fanyanwu@mcneese.edu" target="_blank" rel="noopener noreferrer">fanyanwu@mcneese.edu</a>
+- GitHub: <a href="https://github.com/Fidel2197" target="_blank" rel="noopener noreferrer">Fidel2197</a>
 
 <div align="center">
 
