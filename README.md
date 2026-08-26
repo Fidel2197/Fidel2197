@@ -107,16 +107,66 @@ Graduation: December 2026
 
 ## Featured Work
 
-| Project | Why It Stands Out | Stack | Links |
-| --- | --- | --- | --- |
-| **SnapChef** | Full-stack food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows. | Next.js, React, TypeScript, Supabase, AI APIs | <a href="https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/snapchef" target="_blank" rel="noopener noreferrer">Repository</a> |
-| **SignalDesk** | Incident response workspace with a compact command home, plain how-to guide, and focused views for incidents, response plans, U.S./global coverage, and reports. | Next.js, React, TypeScript, Server Route, Vercel | <a href="https://signaldesk-pink-two.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/SignalDesk" target="_blank" rel="noopener noreferrer">Repository</a> |
-| **StudyOps** | Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning. | HTML, CSS, JavaScript, localStorage | <a href="https://studyops-seven.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/StudyOps" target="_blank" rel="noopener noreferrer">Repository</a> |
-| **Campus Connect** | Multi-page student platform for tutors, events, groups, messages, map pins, reports, profiles, and grouped hub actions. | HTML, CSS, JavaScript | <a href="https://campus-connect-phi-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Campus-Connect" target="_blank" rel="noopener noreferrer">Repository</a> |
-| **FortunatoCare** | Hospital website with separate pages, appointment intake, doctor profiles, company-ready messaging, unique healthcare imagery, and a portal account flow. | HTML, CSS, JavaScript, localStorage | <a href="https://hospital-website-psi-three.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Hospital-Website" target="_blank" rel="noopener noreferrer">Repository</a> |
-| **FitNex** | Fitness tracker website with workout logging, weekly goals, progress summaries, guidance content, and responsive pages. | HTML, CSS, Bootstrap, JavaScript | <a href="https://fitness-website-tawny.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Fitness-Website" target="_blank" rel="noopener noreferrer">Repository</a> |
-| **Arcane Duel** | Canvas gesture-combat game with spell drawing, cooldowns, health, mana, difficulty modes, pause, and quit controls. | HTML, CSS, JavaScript, Canvas | <a href="https://arcane-duel-sable.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Arcane-Duel" target="_blank" rel="noopener noreferrer">Repository</a> |
-| **Tetris Game** | Browser Tetris game with scoring, levels, hold, next preview, ghost piece, keyboard controls, pause, restart, and quit flow. | HTML, CSS, JavaScript, Canvas | <a href="https://tetris-game-fidel2197.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Tetris-Game" target="_blank" rel="noopener noreferrer">Repository</a> |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Why It Stands Out</th>
+      <th>Stack</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SnapChef</strong></td>
+      <td>Full-stack food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows.</td>
+      <td>Next.js, React, TypeScript, Supabase, AI APIs</td>
+      <td><a href="https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/snapchef" target="_blank" rel="noopener noreferrer">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>SignalDesk</strong></td>
+      <td>Incident response workspace with a compact command home, plain how-to guide, and focused views for incidents, response plans, U.S./global coverage, and reports.</td>
+      <td>Next.js, React, TypeScript, Server Route, Vercel</td>
+      <td><a href="https://signaldesk-pink-two.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/SignalDesk" target="_blank" rel="noopener noreferrer">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>StudyOps</strong></td>
+      <td>Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning.</td>
+      <td>HTML, CSS, JavaScript, localStorage</td>
+      <td><a href="https://studyops-seven.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/StudyOps" target="_blank" rel="noopener noreferrer">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Campus Connect</strong></td>
+      <td>Multi-page student platform for tutors, events, groups, messages, map pins, reports, profiles, and grouped hub actions.</td>
+      <td>HTML, CSS, JavaScript</td>
+      <td><a href="https://campus-connect-phi-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Campus-Connect" target="_blank" rel="noopener noreferrer">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>FortunatoCare</strong></td>
+      <td>Hospital website with separate pages, appointment intake, doctor profiles, company-ready messaging, unique healthcare imagery, and a portal account flow.</td>
+      <td>HTML, CSS, JavaScript, localStorage</td>
+      <td><a href="https://hospital-website-psi-three.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Hospital-Website" target="_blank" rel="noopener noreferrer">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>FitNex</strong></td>
+      <td>Fitness tracker website with workout logging, weekly goals, progress summaries, guidance content, and responsive pages.</td>
+      <td>HTML, CSS, Bootstrap, JavaScript</td>
+      <td><a href="https://fitness-website-tawny.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Fitness-Website" target="_blank" rel="noopener noreferrer">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Arcane Duel</strong></td>
+      <td>Canvas gesture-combat game with spell drawing, cooldowns, health, mana, difficulty modes, pause, and quit controls.</td>
+      <td>HTML, CSS, JavaScript, Canvas</td>
+      <td><a href="https://arcane-duel-sable.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Arcane-Duel" target="_blank" rel="noopener noreferrer">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Tetris Game</strong></td>
+      <td>Browser Tetris game with scoring, levels, hold, next preview, ghost piece, keyboard controls, pause, restart, and quit flow.</td>
+      <td>HTML, CSS, JavaScript, Canvas</td>
+      <td><a href="https://tetris-game-fidel2197.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/Tetris-Game" target="_blank" rel="noopener noreferrer">Repository</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
