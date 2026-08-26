@@ -67,7 +67,7 @@ I build practical web apps with clean interfaces, thoughtful user flows, and pro
 
 I am a computer science student at McNeese State University who enjoys turning ideas into usable, presentable projects. A lot of my work starts with a simple question: "Would someone understand what to do here without me explaining it?"
 
-That mindset shows up in my projects. I have built food photo tools, study productivity apps, campus platforms, browser games, healthcare websites, fitness interfaces, and collaborative full-stack work. I like the mix of design, logic, data, and deployment because it forces me to think about the whole experience, not just one file.
+That mindset shows up in my projects. I have built food photo tools, incident response dashboards, study productivity apps, campus platforms, browser games, healthcare websites, fitness interfaces, and collaborative full-stack work. I like the mix of design, logic, data, and deployment because it forces me to think about the whole experience, not just one file.
 
 ```txt
 Focus: clean interfaces, practical features, polished project presentation
@@ -90,20 +90,20 @@ Graduation: December 2026
       <p>Food photo assistant with upload, results, saved scan history, nutrition notes, substitutions, and estimate details.</p>
     </td>
     <td width="50%">
+      <a id="signaldesk-preview">
+        <img src="./assets/project-signaldesk.png" alt="SignalDesk incident response workspace preview" width="100%" />
+      </a>
+      <h3>SignalDesk</h3>
+      <p>Incident response workspace for service health, U.S./global coverage, runbooks, evidence notes, and response recommendations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <a id="studyops-preview">
         <img src="./assets/project-studyops.jpg" alt="StudyOps dashboard preview" width="100%" />
       </a>
       <h3>StudyOps</h3>
       <p>Study command center for notes, tasks, files, flashcards, quizzes, backups, and short-notice study planning.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a id="fortunatocare-preview">
-        <img src="./assets/project-fortunatocare.jpg" alt="FortunatoCare hospital website homepage" width="100%" />
-      </a>
-      <h3>FortunatoCare</h3>
-      <p>Multi-page healthcare site with appointment intake, doctor profiles, separate service pages, organization copy, and portal account flow.</p>
     </td>
     <td width="50%">
       <a id="campus-connect-preview">
@@ -126,6 +126,7 @@ Graduation: December 2026
 | Project | Why It Stands Out | Stack | Links |
 | --- | --- | --- | --- |
 | **SnapChef** | Full-stack food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows. | Next.js, React, TypeScript, Supabase, AI APIs | [Live Site](https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/) / [Repository](https://github.com/Fidel2197/snapchef) |
+| **SignalDesk** | Incident response workspace with service health, active incident selection, U.S./global coverage, runbooks, evidence notes, and response recommendations. | Next.js, React, TypeScript, Server Route, Vercel | [Live Site](https://signaldesk-pink-two.vercel.app/) / [Repository](https://github.com/Fidel2197/SignalDesk) |
 | **StudyOps** | Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning. | HTML, CSS, JavaScript, localStorage | [Live Site](https://studyops-seven.vercel.app/) / [Repository](https://github.com/Fidel2197/StudyOps) |
 | **Campus Connect** | Multi-page student platform for tutors, events, groups, messages, map pins, reports, profiles, and grouped hub actions. | HTML, CSS, JavaScript | [Live Site](https://campus-connect-phi-teal.vercel.app/) / [Repository](https://github.com/Fidel2197/Campus-Connect) |
 | **FortunatoCare** | Hospital website with separate pages, appointment intake, doctor profiles, company-ready messaging, unique healthcare imagery, and a portal account flow. | HTML, CSS, JavaScript, localStorage | [Live Site](https://hospital-website-psi-three.vercel.app/) / [Repository](https://github.com/Fidel2197/Hospital-Website) |
