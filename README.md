@@ -94,7 +94,7 @@ Graduation: December 2026
         <img src="./assets/project-signaldesk.png" alt="SignalDesk incident response workspace preview" width="100%" />
       </a>
       <h3>SignalDesk</h3>
-      <p>Incident response workspace for service health, U.S./global coverage, runbooks, evidence notes, and response recommendations.</p>
+      <p>Incident response workspace with separate command, incidents, response, regions, and reports views.</p>
     </td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ Graduation: December 2026
 | Project | Why It Stands Out | Stack | Links |
 | --- | --- | --- | --- |
 | **SnapChef** | Full-stack food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows. | Next.js, React, TypeScript, Supabase, AI APIs | [Live Site](https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/) / [Repository](https://github.com/Fidel2197/snapchef) |
-| **SignalDesk** | Incident response workspace with service health, active incident selection, U.S./global coverage, runbooks, evidence notes, and response recommendations. | Next.js, React, TypeScript, Server Route, Vercel | [Live Site](https://signaldesk-pink-two.vercel.app/) / [Repository](https://github.com/Fidel2197/SignalDesk) |
+| **SignalDesk** | Incident response workspace with a compact command home and focused views for incidents, response plans, U.S./global coverage, and reports. | Next.js, React, TypeScript, Server Route, Vercel | [Live Site](https://signaldesk-pink-two.vercel.app/) / [Repository](https://github.com/Fidel2197/SignalDesk) |
 | **StudyOps** | Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning. | HTML, CSS, JavaScript, localStorage | [Live Site](https://studyops-seven.vercel.app/) / [Repository](https://github.com/Fidel2197/StudyOps) |
 | **Campus Connect** | Multi-page student platform for tutors, events, groups, messages, map pins, reports, profiles, and grouped hub actions. | HTML, CSS, JavaScript | [Live Site](https://campus-connect-phi-teal.vercel.app/) / [Repository](https://github.com/Fidel2197/Campus-Connect) |
 | **FortunatoCare** | Hospital website with separate pages, appointment intake, doctor profiles, company-ready messaging, unique healthcare imagery, and a portal account flow. | HTML, CSS, JavaScript, localStorage | [Live Site](https://hospital-website-psi-three.vercel.app/) / [Repository](https://github.com/Fidel2197/Hospital-Website) |
