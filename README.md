@@ -1,8 +1,6 @@
 <div align="center">
 
-<a id="profile-banner">
-  <img src="./assets/profile-color-bubbles.svg" alt="Fidel Anyanwu profile banner with floating bubbles" width="100%" />
-</a>
+<img src="./assets/profile-color-bubbles.svg" alt="Fidel Anyanwu profile banner with floating bubbles" width="100%" />
 
 # Hi, I'm Fidel Anyanwu
 
@@ -24,9 +22,7 @@ I build practical web apps with clean interfaces, thoughtful user flows, and pro
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%2B%20Work-F97316?style=for-the-badge" alt="Open to internships and work" />
 </p>
 
-<a id="intro-color-pulse">
-  <img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
-</a>
+<img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
 
 </div>
 
@@ -57,9 +53,7 @@ I build practical web apps with clean interfaces, thoughtful user flows, and pro
   </tr>
 </table>
 
-<a id="quick-look-color-pulse">
-  <img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
-</a>
+<img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
 
 ---
 
@@ -83,41 +77,31 @@ Graduation: December 2026
 <table>
   <tr>
     <td width="50%">
-      <a id="snapchef-preview">
-        <img src="./assets/project-snapchef.jpg" alt="SnapChef application homepage" width="100%" />
-      </a>
+      <img src="./assets/project-snapchef.jpg" alt="SnapChef application homepage" width="100%" />
       <h3>SnapChef</h3>
       <p>Food photo assistant with upload, results, saved scan history, nutrition notes, substitutions, and estimate details.</p>
     </td>
     <td width="50%">
-      <a id="signaldesk-preview">
-        <img src="./assets/project-signaldesk.png" alt="SignalDesk incident response workspace preview" width="100%" />
-      </a>
+      <img src="./assets/project-signaldesk.png" alt="SignalDesk incident response workspace preview" width="100%" />
       <h3>SignalDesk</h3>
       <p>Incident response workspace with separate command, incidents, response, regions, and reports views.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a id="studyops-preview">
-        <img src="./assets/project-studyops.jpg" alt="StudyOps dashboard preview" width="100%" />
-      </a>
+      <img src="./assets/project-studyops.jpg" alt="StudyOps dashboard preview" width="100%" />
       <h3>StudyOps</h3>
       <p>Study command center for notes, tasks, files, flashcards, quizzes, backups, and short-notice study planning.</p>
     </td>
     <td width="50%">
-      <a id="campus-connect-preview">
-        <img src="./assets/project-campus-connect.jpg" alt="Campus Connect platform preview" width="100%" />
-      </a>
+      <img src="./assets/project-campus-connect.jpg" alt="Campus Connect platform preview" width="100%" />
       <h3>Campus Connect</h3>
       <p>Campus platform for tutors, events, groups, messages, reports, profile tools, and student hub actions.</p>
     </td>
   </tr>
 </table>
 
-<a id="gallery-color-pulse">
-  <img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
-</a>
+<img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
 
 ---
 
@@ -154,20 +138,20 @@ Graduation: December 2026
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="SQL" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827" alt="Supabase" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
 
 </div>
 
@@ -177,13 +161,9 @@ Graduation: December 2026
 
 <div align="center">
 
-<a id="snapshot-color-pulse">
-  <img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
-</a>
+<img src="./assets/color-pulse.svg" alt="Animated color divider" width="100%" />
 
-<a id="github-snapshot-preview">
-  <img src="./assets/github-snapshot-motion.svg" alt="Fidel Anyanwu GitHub snapshot" width="100%" />
-</a>
+<img src="./assets/github-snapshot-motion.svg" alt="Fidel Anyanwu GitHub snapshot" width="100%" />
 
 </div>
 
