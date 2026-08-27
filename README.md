@@ -125,8 +125,8 @@ Graduation: December 2026
     </tr>
     <tr>
       <td><strong>SignalDesk</strong></td>
-      <td>Incident response workspace with a compact command home, plain how-to guide, and focused views for incidents, response plans, U.S./global coverage, and reports.</td>
-      <td>Next.js, React, TypeScript, Server Route, Vercel</td>
+      <td>Incident response workspace with focused command, incident, response, region, signal, and report views plus public status checks from GitHub, Vercel, and Cloudflare.</td>
+      <td>Next.js, React, TypeScript, Server Routes, Public Status Signals, Vercel</td>
       <td><a href="https://signaldesk-pink-two.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/SignalDesk" target="_blank" rel="noopener noreferrer">Repository</a></td>
     </tr>
     <tr>
