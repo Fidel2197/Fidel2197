@@ -121,7 +121,7 @@ Graduation: December 2026
       <td><strong>SnapChef</strong></td>
       <td>Full-stack food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows.</td>
       <td>Next.js, React, TypeScript, Supabase, AI APIs</td>
-      <td><a href="https://snapchef-lckic8lxq-fidel-anyanwu-s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/snapchef" target="_blank" rel="noopener noreferrer">Repository</a></td>
+      <td><a href="https://snapchef-nine.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/snapchef" target="_blank" rel="noopener noreferrer">Repository</a></td>
     </tr>
     <tr>
       <td><strong>SignalDesk</strong></td>
