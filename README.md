@@ -4,9 +4,9 @@
 
 # Hi, I'm Fidel Anyanwu
 
-### Computer Science Student | Web Developer | Research and Teaching Assistant
+### Computer Science Student | Software, Data, and IT Support Projects | Research and Teaching Assistant
 
-I build practical web apps, dashboards, database-backed features, and cloud-deployed projects with clean interfaces, thoughtful user flows, and project pages that make the work easy to understand. I am open to internships and work opportunities while I finish my degree, with an expected graduation date of December 2026.
+I build practical applications, dashboards, database-aware features, browser tools, and deployed project sites with clean workflows, thoughtful data handling, and documentation that makes the work easy to review. My work connects programming, application behavior, SQL, Microsoft tools, systems concepts, troubleshooting, testing, and user support. I am open to internships and work opportunities while I finish my degree, with an expected graduation date of December 2026.
 
 <p>
   <a href="https://fidel-portfolio-eta.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -34,21 +34,21 @@ I build practical web apps, dashboards, database-backed features, and cloud-depl
   <tr>
     <td width="50%">
       <h3>What I Like Building</h3>
-      <p>I like turning rough ideas into websites, apps, dashboards, and study tools that someone can open, click through, and understand without a long explanation.</p>
+      <p>I like turning rough ideas into applications, dashboards, study tools, database-backed features, and project workflows that someone can open, test, and understand without a long explanation.</p>
     </td>
     <td width="50%">
       <h3>How I Work</h3>
-      <p>I pay attention to the whole project: layout, wording, forms, saved data, public links, README files, and whether the live site actually works.</p>
+      <p>I pay attention to the whole project: requirements, layout, forms, saved data, validation, links, README files, testing notes, and whether the deployed version actually works.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>What I Am Learning</h3>
-      <p>I am getting stronger with React, Next.js, TypeScript, Supabase, APIs, SQL, cloud deployment, AWS fundamentals, and Microsoft 365 tools.</p>
+      <h3>Technical Areas</h3>
+      <p>My current skill set connects JavaScript, TypeScript, Python, C, SQL/T-SQL, REST APIs, Supabase, Microsoft SQL Server, Windows and Linux fundamentals, GitHub, Vercel, and Microsoft 365.</p>
     </td>
     <td width="50%">
       <h3>What I Am Open To</h3>
-      <p>I am open to internships, work opportunities, volunteer experience, and team projects where I can keep learning and contribute consistently. Expected graduation: December 2026.</p>
+      <p>I am open to internships, work opportunities, volunteer experience, IT support work, analyst-style roles, and team projects where I can contribute consistently. Expected graduation: December 2026.</p>
     </td>
   </tr>
 </table>
@@ -61,12 +61,12 @@ I build practical web apps, dashboards, database-backed features, and cloud-depl
 
 I am a computer science student at McNeese State University who enjoys turning ideas into usable, presentable projects. A lot of my work starts with a simple question: "Would someone understand what to do here without me explaining it?"
 
-That mindset shows up in my projects. I have built food photo tools, incident response dashboards, study productivity apps, campus platforms, browser games, healthcare websites, fitness interfaces, and collaborative full-stack work. I like the mix of design, logic, data, cloud deployment, documentation, and team communication because it forces me to think about the whole experience, not just one file.
+That mindset shows up in my projects. I have built food photo tools, incident response workspaces, study productivity apps, campus platforms, browser games, healthcare sites, fitness interfaces, and collaborative full-stack work. I like the mix of programming, data flow, systems thinking, deployment, documentation, troubleshooting, and team communication because it forces me to think about the whole workflow, not just one screen.
 
 ```txt
-Focus: clean interfaces, practical features, saved data, cloud-deployed projects, polished project presentation
-Learning: React, Next.js, TypeScript, Supabase, APIs, SQL, AWS fundamentals, Microsoft 365, deployment workflows
-Open to: internships, work opportunities, entry-level software roles, web projects, and collaborative builds
+Focus: practical applications, saved data, database workflows, deployed projects, testing notes, and polished project presentation
+Technical mix: JavaScript, TypeScript, Python, C, SQL, T-SQL, REST APIs, Supabase, Microsoft SQL Server, Git, GitHub, Vercel, Windows, Linux command line, and Microsoft 365
+Open to: internships, work opportunities, entry-level software roles, IT analyst work, technical support, web projects, and collaborative builds
 Graduation: December 2026
 ```
 
@@ -174,14 +174,13 @@ Graduation: December 2026
 
 | Area | Skills |
 | --- | --- |
-| **Frontend** | HTML, CSS, JavaScript, responsive layouts, forms, dashboards, accessibility-minded UI, Bootstrap |
-| **Modern Web** | React, Next.js, TypeScript, component-based interfaces, API routes |
-| **Backend and Data** | Supabase, SQL, T-SQL, saved records, auth-style flows, verification flows |
-| **Cloud and Platforms** | Vercel deployments, GitHub workflows, public status APIs, cloud-hosted projects, AWS fundamentals |
-| **Programming** | Python, Java, JavaScript, TypeScript |
-| **App State** | localStorage, account-style sessions, saved tasks, scan history, user settings |
-| **Deployment and Docs** | Git, GitHub, Vercel, live-site QA, README writing, screenshots, project cleanup |
-| **Professional Tools** | Excel, Word, PowerPoint, Microsoft 365 workflows |
+| **Programming Languages** | Python; JavaScript; C; SQL; T-SQL; HTML; CSS; Bash/Shell scripting |
+| **Web & Application Development** | Responsive web design; DOM manipulation; form handling; REST API integration; JSON; localStorage; authentication workflows; search/filter functionality; client-side state management; browser debugging tools |
+| **Database & Data Management** | Microsoft SQL Server; SQL Server Management Studio; relational database design; data modeling; normalization; joins; constraints; primary/foreign keys; schema design; data validation; CSV data loading; query troubleshooting |
+| **Systems & IT Administration** | Windows Server; Active Directory; DNS/DNSSEC; Group Policy; organizational units; user/group administration; access and permission management; Active Directory replication; Linux/Unix fundamentals; system troubleshooting |
+| **Software Engineering & Testing** | Software Development Life Cycle (SDLC); functional and non-functional requirements; software testing; debugging; defect isolation; workflow testing; requirements gathering; technical documentation |
+| **Tools & Platforms** | Visual Studio Code; Git; GitHub; Microsoft Office Suite; Windows; Linux command line; browser developer tools; Vercel deployments |
+| **Technical Strengths** | Troubleshooting; problem solving; user support; application debugging; data-flow analysis; technical documentation; testing and validation |
 
 ---
 
@@ -197,10 +196,15 @@ Graduation: December 2026
 <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-<img src="https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C" />
+<img src="https://img.shields.io/badge/Bash%20%2F%20Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" alt="Bash and shell scripting" />
 <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="SQL" />
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF" alt="T-SQL" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF" alt="Microsoft SQL Server" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827" alt="Supabase" />
-<img src="https://img.shields.io/badge/AWS%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111827" alt="AWS fundamentals" />
+<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=FFFFFF" alt="Windows Server" />
+<img src="https://img.shields.io/badge/Active%20Directory-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=FFFFFF" alt="Active Directory" />
+<img src="https://img.shields.io/badge/Linux%20Command%20Line-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux command line" />
 <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=FFFFFF" alt="Microsoft 365" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
@@ -231,13 +235,13 @@ Graduation: December 2026
 
 ---
 
-## Currently Focused On
+## Current Focus
 
-- Strengthening my portfolio for internship, job, and company applications.
-- Turning class and personal projects into clean live sites with strong README documentation.
-- Building better account flows, saved app state, database-backed features, dashboards, and responsive interfaces.
-- Strengthening cloud fundamentals, especially deployment habits, AWS service concepts, and production-readiness checks.
-- Keeping my GitHub repositories easier to review with project links, screenshots, setup notes, and live QA.
+- Keeping my portfolio, resume, and GitHub profile aligned for internship, job, and company applications.
+- Turning class and personal projects into clean deployed sites with strong README documentation, screenshots, and setup notes.
+- Building better account flows, saved app state, database-backed features, dashboards, search/filter behavior, and validation flows.
+- Connecting project work to SQL/T-SQL, Microsoft SQL Server concepts, data-flow analysis, troubleshooting, testing, and user support.
+- Keeping repositories easier to review with live links, project descriptions, feature notes, and clear technical decisions.
 
 ---
 
