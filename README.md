@@ -6,7 +6,7 @@
 
 ### Computer Science Student | Web Developer | Research and Teaching Assistant
 
-I build practical web apps with clean interfaces, thoughtful user flows, and project pages that make the work easy to understand. I am open to internships and work opportunities while I finish my degree, with an expected graduation date of December 2026.
+I build practical web apps, dashboards, database-backed features, and cloud-deployed projects with clean interfaces, thoughtful user flows, and project pages that make the work easy to understand. I am open to internships and work opportunities while I finish my degree, with an expected graduation date of December 2026.
 
 <p>
   <a href="https://fidel-portfolio-eta.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -34,17 +34,17 @@ I build practical web apps with clean interfaces, thoughtful user flows, and pro
   <tr>
     <td width="50%">
       <h3>What I Like Building</h3>
-      <p>I like turning rough ideas into websites and apps that someone can open, click through, and understand without a long explanation.</p>
+      <p>I like turning rough ideas into websites, apps, dashboards, and study tools that someone can open, click through, and understand without a long explanation.</p>
     </td>
     <td width="50%">
       <h3>How I Work</h3>
-      <p>I pay attention to the whole project: layout, wording, forms, saved data, screenshots, README files, and whether the live site actually works.</p>
+      <p>I pay attention to the whole project: layout, wording, forms, saved data, public links, README files, and whether the live site actually works.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>What I Am Learning</h3>
-      <p>I am getting stronger with React, Next.js, TypeScript, Supabase, APIs, SQL, and cleaner deployment habits.</p>
+      <p>I am getting stronger with React, Next.js, TypeScript, Supabase, APIs, SQL, cloud deployment, AWS fundamentals, and Microsoft 365 tools.</p>
     </td>
     <td width="50%">
       <h3>What I Am Open To</h3>
@@ -61,11 +61,11 @@ I build practical web apps with clean interfaces, thoughtful user flows, and pro
 
 I am a computer science student at McNeese State University who enjoys turning ideas into usable, presentable projects. A lot of my work starts with a simple question: "Would someone understand what to do here without me explaining it?"
 
-That mindset shows up in my projects. I have built food photo tools, incident response dashboards, study productivity apps, campus platforms, browser games, healthcare websites, fitness interfaces, and collaborative full-stack work. I like the mix of design, logic, data, and deployment because it forces me to think about the whole experience, not just one file.
+That mindset shows up in my projects. I have built food photo tools, incident response dashboards, study productivity apps, campus platforms, browser games, healthcare websites, fitness interfaces, and collaborative full-stack work. I like the mix of design, logic, data, cloud deployment, documentation, and team communication because it forces me to think about the whole experience, not just one file.
 
 ```txt
-Focus: clean interfaces, practical features, polished project presentation
-Learning: React, Next.js, TypeScript, Supabase, APIs, SQL, deployment workflows
+Focus: clean interfaces, practical features, saved data, cloud-deployed projects, polished project presentation
+Learning: React, Next.js, TypeScript, Supabase, APIs, SQL, AWS fundamentals, Microsoft 365, deployment workflows
 Open to: internships, work opportunities, entry-level software roles, web projects, and collaborative builds
 Graduation: December 2026
 ```
@@ -84,7 +84,7 @@ Graduation: December 2026
     <td width="50%">
       <img src="./assets/project-signaldesk.png" alt="SignalDesk incident response workspace preview" width="100%" />
       <h3>SignalDesk</h3>
-      <p>Incident response workspace with separate command, incidents, response, regions, and reports views.</p>
+      <p>Incident response workspace with separate command, incidents, response, regions, public signals, and reports views.</p>
     </td>
   </tr>
   <tr>
@@ -131,8 +131,8 @@ Graduation: December 2026
     </tr>
     <tr>
       <td><strong>StudyOps</strong></td>
-      <td>Study command center with files, notes, tasks, flashcards, quizzes, backups, account-style access, and Panic Mode planning.</td>
-      <td>HTML, CSS, JavaScript, localStorage</td>
+      <td>Browser study command center with account-style access, local data persistence, files, notes, tasks, flashcards, quizzes, backups, and Panic Mode planning.</td>
+      <td>HTML, CSS, JavaScript, localStorage, Data Persistence</td>
       <td><a href="https://studyops-seven.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a> / <a href="https://github.com/Fidel2197/StudyOps" target="_blank" rel="noopener noreferrer">Repository</a></td>
     </tr>
     <tr>
@@ -177,6 +177,7 @@ Graduation: December 2026
 | **Frontend** | HTML, CSS, JavaScript, responsive layouts, forms, dashboards, accessibility-minded UI, Bootstrap |
 | **Modern Web** | React, Next.js, TypeScript, component-based interfaces, API routes |
 | **Backend and Data** | Supabase, SQL, T-SQL, saved records, auth-style flows, verification flows |
+| **Cloud and Platforms** | Vercel deployments, GitHub workflows, public status APIs, cloud-hosted projects, AWS fundamentals |
 | **Programming** | Python, Java, JavaScript, TypeScript |
 | **App State** | localStorage, account-style sessions, saved tasks, scan history, user settings |
 | **Deployment and Docs** | Git, GitHub, Vercel, live-site QA, README writing, screenshots, project cleanup |
@@ -199,6 +200,8 @@ Graduation: December 2026
 <img src="https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
 <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="SQL" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827" alt="Supabase" />
+<img src="https://img.shields.io/badge/AWS%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111827" alt="AWS fundamentals" />
+<img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=FFFFFF" alt="Microsoft 365" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
@@ -232,7 +235,8 @@ Graduation: December 2026
 
 - Strengthening my portfolio for internship, job, and company applications.
 - Turning class and personal projects into clean live sites with strong README documentation.
-- Building better account flows, saved app state, dashboards, and responsive interfaces.
+- Building better account flows, saved app state, database-backed features, dashboards, and responsive interfaces.
+- Strengthening cloud fundamentals, especially deployment habits, AWS service concepts, and production-readiness checks.
 - Keeping my GitHub repositories easier to review with project links, screenshots, setup notes, and live QA.
 
 ---
