@@ -72,6 +72,12 @@ Graduation: December 2026
 
 ---
 
+## Latest Project: DataDock
+
+Upload a spreadsheet, understand its quality, and download a cleaned copy. DataDock runs a FastAPI backend with pandas/NumPy analysis and Neon PostgreSQL, with optional accounts that preserve reports across devices. GitHub Actions checks the Python API, React frontend, and Docker builds.
+
+[Open DataDock](https://datadock-fidel2197.vercel.app/) · [Quick guide](https://datadock-fidel2197.vercel.app/#guide) · [Read the source](https://github.com/Fidel2197/DataDock)
+
 ## Project Gallery
 
 <table>
@@ -117,6 +123,12 @@ Graduation: December 2026
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>DataDock</strong></td>
+      <td>CSV quality workspace with Python analysis, private accounts, recovery, saved reports, charts, cleaning controls, and a quick guide.</td>
+      <td>React, TypeScript, FastAPI, pandas, NumPy, SQLAlchemy, PostgreSQL, Vercel</td>
+      <td><a href="https://datadock-fidel2197.vercel.app/" target="_blank" rel="noopener noreferrer">Open App</a> / <a href="https://datadock-fidel2197.vercel.app/#guide" target="_blank" rel="noopener noreferrer">Guide</a> / <a href="https://github.com/Fidel2197/DataDock" target="_blank" rel="noopener noreferrer">Repository</a></td>
+    </tr>
     <tr>
       <td><strong>SnapChef</strong></td>
       <td>Full-stack food image assistant with upload, scan history, results, nutrition notes, substitutions, estimates, and delete flows.</td>
@@ -177,6 +189,7 @@ Graduation: December 2026
 | **Programming Languages** | Python; JavaScript; C; SQL; T-SQL; HTML; CSS; Bash/Shell scripting |
 | **Web & Application Development** | Responsive web design; DOM manipulation; form handling; REST API integration; JSON; localStorage; authentication workflows; search/filter functionality; client-side state management; browser debugging tools |
 | **Database & Data Management** | Microsoft SQL Server; SQL Server Management Studio; relational database design; data modeling; normalization; joins; constraints; primary/foreign keys; schema design; data validation; CSV data loading; query troubleshooting |
+| **Python & Data Applications** | FastAPI; pandas; NumPy; SQLAlchemy; PostgreSQL; private accounts; CSV profiling; charts; indexed pagination; TanStack Query; lazy-loaded React views |
 | **Systems & IT Administration** | Windows Server; Active Directory; DNS/DNSSEC; Group Policy; organizational units; user/group administration; access and permission management; Active Directory replication; Linux/Unix fundamentals; system troubleshooting |
 | **Software Engineering & Testing** | Software Development Life Cycle (SDLC); functional and non-functional requirements; software testing; debugging; defect isolation; workflow testing; requirements gathering; technical documentation |
 | **Tools & Platforms** | Visual Studio Code; Git; GitHub; Microsoft Office Suite; Windows; Linux command line; browser developer tools; Vercel deployments |
