@@ -14,6 +14,8 @@ I’m a Computer Science student at McNeese State University, graduating Decembe
 
 Also: [Arcane Duel](https://github.com/Fidel2197/Arcane-Duel) for canvas game logic, [StudyOps](https://github.com/Fidel2197/StudyOps) for course material, flashcards, deadlines, and timed study plans, and [Cowboy Bookstore](https://github.com/CowboysBookstore/bookstore) for collaborative React/Django work.
 
+My campus experience includes supporting 30+ students in programming labs, testing and reviewing 100+ assignments, troubleshooting robotic prototypes, and supporting a residential community of 50+ students. [Experience and education](https://fidel-portfolio-eta.vercel.app/experience.html) explains the debugging, testing, documentation, and day-to-day responsibilities behind those roles.
+
 ## Tools I use
 
 - **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS
