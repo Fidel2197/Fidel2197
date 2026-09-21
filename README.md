@@ -22,4 +22,4 @@ My campus experience includes supporting 30+ students in programming labs, testi
 - **Backend and data:** Python, FastAPI, pandas, SQL, PostgreSQL, Supabase
 - **Delivery:** Git, GitHub Actions, Docker, Vercel, automated tests
 
-I use AI-assisted development tools for implementation support, refactoring, documentation, and testing. I set the product requirements and priorities, review the resulting behavior, and decide what needs another revision. [How I work](https://fidel-portfolio-eta.vercel.app/approach.html) connects that process to specific improvements and explains the project boundaries.
+I use development tools for implementation support, refactoring, documentation, and testing. I set the product requirements and priorities, review the resulting behavior, and decide what needs another revision. [How I work](https://fidel-portfolio-eta.vercel.app/approach.html) connects that process to specific improvements and explains the project boundaries.
