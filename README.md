@@ -19,7 +19,7 @@
 
 <img src="./assets/color-pulse.svg" alt="" width="100%" />
 
-### Three projects to start with
+### Featured projects
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
 
 Also worth a look: **[StudyOps](https://github.com/Fidel2197/StudyOps)** for course material, flashcards, deadlines, and timed study plans; **[Arcane Duel](https://github.com/Fidel2197/Arcane-Duel)** for canvas game logic; and **[Cowboy Bookstore](https://github.com/CowboysBookstore/bookstore)** for a collaborative React/Django course project.
 
-### Tools behind the work
+### Technologies
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=111827" alt="React" />
@@ -72,7 +72,7 @@ Also worth a look: **[StudyOps](https://github.com/Fidel2197/StudyOps)** for cou
 
 The project notes connect these tools to specific decisions: React components and state, Python analysis, SQL data models, API boundaries, automated tests, and deployment. [See the skills in context →](https://fidel-portfolio-eta.vercel.app/skills.html)
 
-### Beyond the projects
+### Experience
 
 <table>
   <tr>
@@ -91,7 +91,7 @@ The project notes connect these tools to specific decisions: React components an
 
 ### How I build
 
-I use development tools for implementation support, refactoring, documentation, and testing. I set the product requirements and priorities, review the resulting behavior, and decide what needs another revision. [How I work](https://fidel-portfolio-eta.vercel.app/approach.html) connects that process to specific improvements and explains the project boundaries.
+I start with the main user flow, then work through the interface, data, and failure cases. I use development tools for implementation, refactoring, and testing, and review the result against the requirements I set. My project pages explain the choices, checks, and lessons behind the finished application. [More about my approach →](https://fidel-portfolio-eta.vercel.app/approach.html)
 
 <img src="./assets/color-pulse.svg" alt="" width="100%" />
 
