@@ -91,7 +91,7 @@ The project notes connect these tools to specific decisions: React components an
 
 ### How I build
 
-I use AI-assisted development tools for implementation support, refactoring, documentation, and testing. I set the product requirements and priorities, review the resulting behavior, and decide what needs another revision. [My approach](https://fidel-portfolio-eta.vercel.app/approach.html) connects that process to specific improvements and explains the project boundaries.
+I use development tools for implementation support, refactoring, documentation, and testing. I set the product requirements and priorities, review the resulting behavior, and decide what needs another revision. [How I work](https://fidel-portfolio-eta.vercel.app/approach.html) connects that process to specific improvements and explains the project boundaries.
 
 <img src="./assets/color-pulse.svg" alt="" width="100%" />
 
