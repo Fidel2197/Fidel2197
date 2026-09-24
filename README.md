@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/profile-color-bubbles.svg" alt="Fidel Anyanwu — web applications, Python and data, and practical troubleshooting" width="100%" />
+<img src="./assets/profile-color-bubbles.svg" alt="Fidel Anyanwu — full-stack developer and TestOut Linux Pro certified" width="100%" />
 
-<p><strong>Computer Science at McNeese State University · Graduating December 2026</strong></p>
+<p><strong>Full-Stack Software Developer</strong><br />React · TypeScript · Python / FastAPI · PostgreSQL<br />Computer Science at McNeese State University · Graduating December 2026</p>
 
-<p>I build web applications that turn messy inputs into useful workflows—from CSV analysis to recipes from food photos. I care about the interface, the data behind it, and what happens when something goes wrong.</p>
+<p>I build full-stack applications around everyday workflows: cleaning a messy CSV, planning a meal from a food photo, or working through an incident. I enjoy connecting a clear interface to useful data, and making the failure cases as thoughtful as the happy path.</p>
 
 <p>
   <a href="https://fidel-portfolio-eta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore_the_work-2563EB?style=for-the-badge" alt="Explore my portfolio" /></a>
@@ -13,7 +13,7 @@
   <a href="mailto:fanyanwu@mcneese.edu"><img src="https://img.shields.io/badge/Email-Say_hello-EA580C?style=for-the-badge" alt="Email fanyanwu@mcneese.edu" /></a>
 </p>
 
-<p>Open to internships and entry-level software development or IT opportunities.</p>
+<p>Seeking internships and entry-level software engineering or full-stack development roles.</p>
 
 </div>
 
@@ -55,7 +55,11 @@
   </tr>
 </table>
 
-Also worth a look: **[StudyOps](https://github.com/Fidel2197/StudyOps)** for course material, flashcards, deadlines, and timed study plans; **[Arcane Duel](https://github.com/Fidel2197/Arcane-Duel)** for canvas game logic; and **[Cowboy Bookstore](https://github.com/CowboysBookstore/bookstore)** for a collaborative React/Django course project.
+### Collaborative development
+
+On **[Cowboy Bookstore](https://github.com/CowboysBookstore/bookstore)**, I contributed the storefront cart, wishlist, checkout/payment interface, and order confirmation flow through a [merged pull request](https://github.com/CowboysBookstore/bookstore/pull/1). The change includes frontend tests, with test, TypeScript, and production-build verification documented in the PR. Checkout currently records pending order requests; payment processing is not connected.
+
+Also explore **[Campus Connect](https://github.com/Fidel2197/Campus-Connect)** for responsive student networking interfaces, **[Arcane Duel](https://github.com/Fidel2197/Arcane-Duel)** for canvas game logic and gesture recognition, and **[StudyOps](https://github.com/Fidel2197/StudyOps)** for browser-based study planning.
 
 ### Technologies
 
@@ -71,6 +75,12 @@ Also worth a look: **[StudyOps](https://github.com/Fidel2197/StudyOps)** for cou
 </p>
 
 The project notes connect these tools to specific decisions: React components and state, Python analysis, SQL data models, API boundaries, automated tests, and deployment. [See the skills in context →](https://fidel-portfolio-eta.vercel.app/skills.html)
+
+### Certification
+
+**TestOut Linux Pro** · Issued November 25, 2024
+
+Performance-based certification covering Linux system administration, storage and file systems, networking, and security/access control. [View certificate (PDF) →](./assets/testout-linux-pro.pdf)
 
 ### Experience
 
